@@ -1,6 +1,6 @@
 {
   "name": "graphql-introspect-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parser for Graphql introspection result (JSON)",
   "main": "index.ts",
   "scripts": {
